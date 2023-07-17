@@ -71,7 +71,9 @@ Note: The code provided in this repository offers flexibility in color customiza
 
 - Scalable and customizable through CSS.
 
+## Deployment status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/daeb7fc2-2a3f-43cc-8e98-a1ae43287c42/deploy-status)](https://app.netlify.com/sites/jsprojects25-circular-progess-bar/deploys)
 ## Contributing
 
 Contributions are always welcome!
