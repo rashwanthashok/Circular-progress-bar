@@ -17,7 +17,7 @@ Rashwanth - Circular progress bar is a visually appealing and customizable HTML,
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Circular-Progress-bar/
+    (https://rashwanthashok.github.io/Circular-progress-bar/)
 ## Getting Started
 
 To use the Rashwanth - Circular progress bar, follow these steps:
